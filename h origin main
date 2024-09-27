@@ -1,0 +1,83 @@
+[33mcommit 3cee7ff2ee6552384e9061bd466ce60f0ba883e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mSamia[m[33m, [m[1;31morigin/Samia[m[33m)[m
+Author: Samia Rahman <samia5@ualberta.ca>
+Date:   Fri Sep 27 10:51:42 2024 -0600
+
+    Removed other shape files from the branch
+
+[33mcommit 852151d0ba1f96b07db9eadfef5bba1a6b1bc270[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: krishnav-arora <157076166+krishnav-arora@users.noreply.github.com>
+Date:   Fri Sep 27 03:23:24 2024 -0600
+
+    square shape added
+
+[33mcommit 912810a2bbd11ccda75b58c3b1861a69754ad809[m
+Author: Shaaf Babar <shaaf.babar@gmail.com>
+Date:   Fri Sep 27 02:02:48 2024 -0600
+
+    Circle
+
+[33mcommit 5a156fb8e5fd33248e31e16128050f5f3fb92c7a[m
+Author: Sadman Sami <112992400+S-a-m-i-0@users.noreply.github.com>
+Date:   Thu Sep 26 22:10:55 2024 -0600
+
+    Update Shape.java
+
+[33mcommit 7cb3ab74eacd8538d84b9072354f11b217a531e7[m
+Author: Sadman Sami <112992400+S-a-m-i-0@users.noreply.github.com>
+Date:   Thu Sep 26 22:04:36 2024 -0600
+
+    Update Shape.java
+
+[33mcommit 5f3c1ac523151fe0a8ee6f0a24edb35bf939dde6[m
+Merge: b6f69b0 5e475c6
+Author: Zahid Hasan <113128458+zahid2011@users.noreply.github.com>
+Date:   Thu Sep 26 22:01:58 2024 -0600
+
+    Merge pull request #2 from CMPUT301F24beacon/sadman
+    
+    triangle shape added
+
+[33mcommit b6f69b0f477270cde26b48d9b77986076178800c[m
+Merge: 082915a 391f856
+Author: Sadman Sami <112992400+S-a-m-i-0@users.noreply.github.com>
+Date:   Thu Sep 26 22:01:06 2024 -0600
+
+    Merge pull request #1 from CMPUT301F24beacon/zahid
+    
+    adding the rectangle file
+
+[33mcommit 5e475c65c870f84099d906a5232d90166c212e45[m
+Author: S-a-m-i-0 <sadman.sami.arnob@gmail.com>
+Date:   Thu Sep 26 21:55:00 2024 -0600
+
+    triangle shape added
+
+[33mcommit 391f8569acc7e0560139a6a1054225f49707715c[m
+Author: Zahid Hasan <zhasan@ualberta.ca>
+Date:   Thu Sep 26 21:49:39 2024 -0600
+
+    adding the rectangle file
+
+[33mcommit 082915a00b5c241221e01760eda073fb72946b32[m
+Author: S-a-m-i-0 <sadman.sami.arnob@gmail.com>
+Date:   Thu Sep 26 20:53:06 2024 -0600
+
+    Color added
+
+[33mcommit 91e9a2d1f25ecdd4f903f44956d101310d54ffed[m
+Author: S-a-m-i-0 <sadman.sami.arnob@gmail.com>
+Date:   Thu Sep 26 20:46:41 2024 -0600
+
+    Shape class  created
+
+[33mcommit a67f17fdd3b66935c1cf7be001ae8452af845a17[m
+Author: Samia Rahman <samia5@ualberta.ca>
+Date:   Thu Sep 26 18:50:41 2024 -0600
+
+    remove idea
+
+[33mcommit c1db2af7348d03aa94ffcf4570b212fbfc33597d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Samia Rahman <samia5@ualberta.ca>
+Date:   Thu Sep 26 18:49:01 2024 -0600
+
+    init
