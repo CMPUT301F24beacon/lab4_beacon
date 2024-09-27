@@ -3,11 +3,13 @@ package com.example.beacon;
 public abstract class Shape {
     private int x;
     private int y;
+    private String color;
 
     public Shape(int x, int y)
     {
         this.x = x;
         this.y = y;
+        this.color = "red";
     }
 
     public int getX() {
@@ -27,4 +29,15 @@ public abstract class Shape {
     {
         this.y =y;
     }
+
+    private void setColor(String color)
+    {
+        this.color = color;
+    }
+
+    private String getColor()
+    {
+        return color;
+    }
+
 }
