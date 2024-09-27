@@ -3,7 +3,7 @@ package com.example.beacon;
 public abstract class Shape {
     private int x;
     private int y;
-    String color = "Blue";
+    String color = "BLue";
 
     public Shape(int x, int y)
     {
