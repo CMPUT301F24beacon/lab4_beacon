@@ -26,3 +26,4 @@ public class Square extends Shape {
         return "Square with side length: " + sideLength + " at position (" + x + ", " + y + ")";
     }
 }
+
