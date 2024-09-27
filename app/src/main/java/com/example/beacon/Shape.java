@@ -9,7 +9,6 @@ public abstract class Shape {
     {
         this.x = x;
         this.y = y;
-        this.color = "red";
     }
 
     public int getX() {
@@ -28,16 +27,6 @@ public abstract class Shape {
     public void setY(int y)
     {
         this.y =y;
-    }
-
-    private void setColor(String color)
-    {
-        this.color = color;
-    }
-
-    private String getColor()
-    {
-        return color;
     }
 
 }
